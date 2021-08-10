@@ -2,7 +2,7 @@ gg.alert (os.date([[
 🛡️Verification Completed Successfully          
 Tarih: %Y/%m/%d                                        Saat: %H:%M:%S]]))
 
-gg.alert("--------------------------------------------------- ▀▄▀▄▀▄ ▄▀▄▀▄▀▀▄▀▄▀▄ ▄▀▄▀▄▀\n  \b\b╔══════════════════════╗           🏆\b\b\b\b\b\b\b\..║S I D T U B BE║.. \n\b  \b╚══════════════════════╝ \n▀▄▀▄▀▄ ▄▀▄▀▄▀▀▄▀▄▀▄ ▄▀▄▀▄▀\n--------------------------------------------------")
+gg.alert("--------------------------------------------------- ▀▄▀▄▀▄ ▄▀▄▀▄▀▀▄▀▄▀▄ ▄▀▄▀▄▀\n  \b\b╔══════════════════════╗           🏆\b\b\b\b\b\b\b\..║M O Z A N║.. \n\b  \b╚══════════════════════╝ \n▀▄▀▄▀▄ ▄▀▄▀▄▀▀▄▀▄▀▄ ▄▀▄▀▄▀\n--------------------------------------------------")
 
 
 
@@ -17,7 +17,7 @@ function HOME()
     "            ➖🚫 exit 🚫➖ ",
     "➡️ user guide", 
 
-  }, nil, " 🇻 🇮 🇵 cimplesid  \n\n╚»★«╝╚»★«╝ ╚»★«╝╚»★«╝╚»★«╝")
+  }, nil, " MOZAN gg  \n\n╚»★«╝╚»★«╝ ╚»★«╝╚»★«╝╚»★«╝")
   if GR1 == 1 then WH() end
   if GR1 == 2 then RNK() end 
   if GR1 == 3 then ANTEN() end
@@ -80,7 +80,7 @@ function EKS()
     "🎥 camera  x10",
     "back 🔙"
 
-  }, nil, "PUBG Version [0.11.5]")
+  }, nil, "PUBG Version [1.5]")
   if GR6 == nil then
   else
     if GR6[1] == true then
@@ -240,7 +240,7 @@ function SEKM()
     "⚜️home tab 100% [game]",
     "ℹ️ USEℹ️",
     "[🔙GERİ]"
-  }, nil, "╔══════════════════════╗\n║⚜️C I M P L E S I D V 1⚜️\n╚══════════════════════╝")
+  }, nil, "╔══════════════════════╗\n║⚜️MOZAN gg⚜️\n╚══════════════════════╝")
   if GR3 == nil then
   else
     if GR3 == 1 then
@@ -609,7 +609,7 @@ gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(30)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Actvd subscribe to sidtube")
+gg.toast("luv fuck")
 end
 
 function WH636()
@@ -625,7 +625,7 @@ gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(30)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Actvd subscribe to sidtube")
+gg.toast("luv fuck")
 end
 
 function WH425()
@@ -641,7 +641,7 @@ gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(100)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Actvd subscribe to sidtube")
+gg.toast("luv fuck")
 end
 
 function WH450()
@@ -684,7 +684,7 @@ gg.searchNumber("4.7961574e21;3.7615819e-37;2::", gg.TYPE_FLOAT, false, gg.SIGN_
 gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(30)
 gg.editAll("150", gg.TYPE_FLOAT)
-gg.toast(" Actvd subscribe to sidtube  ✔")
+gg.toast(" luv fuck  ✔")
 gg.clearResults()
 end
 
@@ -702,7 +702,7 @@ gg.searchNumber(2, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(30)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast(" Actvd subscribe to sidtube ✔")
+gg.toast(" luv fuck ✔")
 gg.clearResults()
 end
 
@@ -723,7 +723,7 @@ function carflying()
   gg.searchNumber("45", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
   gg.getResults(999999)
   gg.editAll("700", gg.TYPE_FLOAT)
-  gg.toast(" Actvd subscribe to sidtube✔")
+  gg.toast(" luv fuck✔")
 end
 
 function WH660()
@@ -768,7 +768,7 @@ gg.searchNumber("4,140D;4.7408149e21;-5.5695588e-40;4.814603e21;3.7615819e-37;2:
 gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(20)
 gg.editAll("120", gg.TYPE_FLOAT)
-gg.toast("Actvd subscribe to sidtube ✔")
+gg.toast("luv fuck ✔")
 gg.clearResults()
 end
 
@@ -798,7 +798,7 @@ gg.searchNumber("206D;3.7615819e-37;2;-1;1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL
 gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(10)
 gg.editAll("130", gg.TYPE_FLOAT)
-gg.toast(" Actvd subscribe to sidtube ✔")
+gg.toast(" luv fuck ✔")
 gg.clearResults()
 end
 
@@ -815,7 +815,7 @@ gg.searchNumber("194D;3.7615819e-37;2;-1;1;-127::", gg.TYPE_FLOAT, false, gg.SIG
 gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(10)
 gg.editAll("130", gg.TYPE_FLOAT)
-gg.toast("Actvd subscribe to sidtube  ✔")
+gg.toast("luv fuck  ✔")
 gg.clearResults()
 end
 
@@ -837,7 +837,7 @@ gg.searchNumber("7.1746481e-43;1.0842022e-19;94.015625;7.0776718e-15;2::", gg.TY
 gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(5)
 gg.editAll("9999", gg.TYPE_FLOAT)
-gg.toast("Actvd subscribe to sidtube ✔")
+gg.toast("luv fuck ✔")
 gg.clearResults()
 end
 
@@ -891,7 +891,7 @@ function WH845()
   gg.getResults(20)
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Actvd subscribe to sidtube!")
+  gg.toast("luv fucke!")
 end
 
 function RNK()
@@ -913,7 +913,7 @@ GR2 = gg.multiChoice({
 "☪️MOR color",
 "↪️back",
 
-	  }, nil, "🇹subscribe to sidtube")
+	  }, nil, "luv fuck")
   if GR2 == nil then
   else
   if GR2[1] == true then RNK1() end
@@ -1011,7 +1011,7 @@ function Superman()
   gg.getResults(30)
   gg.editAll("999.0", gg.TYPE_FLOAT)
   gg.clearResults()
-  gg.toast("Süpermen✔")
+  gg.toast("hacker✔")
 end
 
 function BestHS()
@@ -1336,13 +1336,13 @@ gg.alert("HOW TO USE?\n\n ℹ️menu (Lobi) ve (game) indicates where you want t
   
   
 function EXT()
-GR5 = print("•2019")
-print("• instagram: cimplesid")
-print("• Youtube Kanalı : SIDTUBE")
+GR5 =
+print("• instagram: moz1n")
+print("• Tele : q8jjj")
 os.exit()
 end
 
-cs = "• sidtube"
+cs = "• Mozan"
 while true do
 if gg.isVisible(true) then
 GRH = 1
